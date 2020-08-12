@@ -1,4 +1,4 @@
-module github.com/caddyserver/forwardproxy
+module github.com/blogmpw1/forwardproxy
 
 go 1.14
 
